@@ -34,14 +34,16 @@ body {
 
 .card {
   float: left;
-  width: 33.333%;
+  width: 33.333%;  
   padding: .75rem;
   margin-bottom: 2rem;
   border: 0;
 }
 
 .card > img {
-  margin-bottom: .75rem;
+  margin:auto;
+  margin-bottom: .75rem;  
+  max-height: 280px;
 }
 
 .card-text {
@@ -60,5 +62,10 @@ footer p {
 @media only screen and (max-width: 500px) {
 	.card {
 	  width: 100%;
+	}
+	.card > img {
+	  margin:auto;
+	  margin-bottom: .75rem;  
+	  max-height: 280px;	 
 	}
 }
