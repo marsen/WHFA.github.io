@@ -44,6 +44,7 @@ body {
   margin:auto;
   margin-bottom: .75rem;  
   max-height: 280px;
+  max-width: 356px;
 }
 
 .card-text {
@@ -66,6 +67,7 @@ footer p {
 	.card > img {
 	  margin:auto;
 	  margin-bottom: .75rem;  
-	  max-height: 280px;	 
+	  max-height: 280px;
+	  max-width: 100%;	  
 	}
 }
