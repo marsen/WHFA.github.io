@@ -56,3 +56,9 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
+
+@media only screen and (max-width: 500px) {
+	.card {
+	  width: 100%;
+	}
+}
