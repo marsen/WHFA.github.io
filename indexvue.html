@@ -36,122 +36,20 @@
     </div>
   </body>	
   <script>
-      var firstTeam = {
-        teamName:"晨光銳布斯",
-        couch:{name:'楊中平'},
-        players:[
-            {
-              no:'4',
-              name:'Isamu Sumiyoshi',
-              avatar:''  
-            },
-            {
-              no:'7',
-              name:'戴瑋成',
-              avatar:'images/player.jpg'  
-            },
-            {
-              no:'10',
-              name:'陳家豪',
-              avatar:'images/player.jpg'  
-            },
-            {
-              no:'15',
-              name:'李志勇',
-              avatar:''  
-            },
-            {
-              no:'17',
-              name:'謝金勇',
-              avatar:''  
-            },
-            {
-              no:'21',
-              name:'曾煒植',
-              avatar:''  
-            },
-            {
-              no:'24',
-              name:'林孟賢',
-              avatar:''  
-            },
-            {
-              no:'25',
-              name:'王紹維',
-              avatar:''  
-            },
-            {
-              no:'26',
-              name:'鄭凱耀',
-              avatar:''  
-            },
-            {
-              no:'33',
-              name:'先佑',
-              avatar:''  
-            },
-            {
-              no:'34',
-              name:'王群賀',
-              avatar:''  
-            },
-            {
-              no:'35',
-              name:'賴宗塏',
-              avatar:''  
-            },
-            {
-              no:'39',
-              name:'洪佑宗',
-              avatar:''  
-            },
-            {
-              no:'47',
-              name:'邵宜暄',
-              avatar:''  
-            },
-            {
-              no:'55',
-              name:'邱子恩',
-              avatar:''  
-            },
-            {
-              no:'60',
-              name:'陳俊傑',
-              avatar:''  
-            },
-            {
-              no:'74',
-              name:'單彥鈞',
-              avatar:''  
-            },
-            {
-              no:'87',
-              name:'于雋',
-              avatar:''  
-            },
-            {
-              no:'88',
-              name:'林政緯',
-              avatar:''  
-            }                                                                                                           
-          ]
-      }
       var xhr = new XMLHttpRequest();
       xhr.open('GET', 'data/teams.json');
       xhr.onload = function() {
-          if (xhr.status === 200) {
-              alert('200' + xhr.responseText);
+          if (xhr.status === 200 || xhr.status === 0) {
+            var firstTeam = JSON.parse(xhr.responseText);
+            var albumMenu = {el:'#menu',data:{teamName:firstTeam.teamName}};
+            new Vue(albumMenu);
+            var albumResource = {el:'#album',data:{firstTeam:firstTeam}};
+            new Vue(albumResource);
           }
           else {
               alert('ERROR ' + xhr.status);
           }
       };
       xhr.send();
-
-      var albumMenu = {el:'#menu',data:{teamName:firstTeam.teamName}};
-      new Vue(albumMenu);
-      var albumResource = {el:'#album',data:{firstTeam:firstTeam}};
-      new Vue(albumResource);
     </script>
 </html>
