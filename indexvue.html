@@ -13,12 +13,12 @@
     <script src="https://unpkg.com/vue"></script>
 	</head>
 	<body>
-    <div class="navbar navbar-inverse bg-inverse">
+    <div class="navbar navbar-inverse bg-inverse" id="menu">
       <div class="container d-flex justify-content-between">
-        <a href="#" class="navbar-brand">晨光銳布斯</a>
+        <a href="#" class="navbar-brand">{{teamName}}</a>
       </div>
     </div>
-    <div class="album text-muted" id="app">
+    <div class="album text-muted" id='album'>
         <div class="container">
           <div class="row">
             <div class="card">
@@ -37,6 +37,7 @@
   </body>	
   <script>
       var firstTeam = {
+        teamName:"晨光銳布斯",
         couch:{name:'楊中平'},
         players:[
             {
@@ -136,7 +137,9 @@
             }                                                                                                           
           ]
       }
-      var resource = {el:'#app',data:{msg:'hello world!',firstTeam:firstTeam}};
-      var app = new  Vue(resource);
+      var albumMenu = {el:'#menu',data:{teamName:firstTeam.teamName}};
+      new Vue(albumMenu);
+      var albumResource = {el:'#album',data:{firstTeam:firstTeam}};
+      new Vue(albumResource);
     </script>
 </html>
