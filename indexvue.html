@@ -137,6 +137,18 @@
             }                                                                                                           
           ]
       }
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', 'data/teams.json');
+      xhr.onload = function() {
+          if (xhr.status === 200) {
+              alert('200' + xhr.responseText);
+          }
+          else {
+              alert('ERROR ' + xhr.status);
+          }
+      };
+      xhr.send();
+
       var albumMenu = {el:'#menu',data:{teamName:firstTeam.teamName}};
       new Vue(albumMenu);
       var albumResource = {el:'#album',data:{firstTeam:firstTeam}};
