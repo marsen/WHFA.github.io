@@ -40,7 +40,10 @@
       xhr.open('GET', 'data/teams.json');
       xhr.onload = function() {
           if (xhr.status === 200 || xhr.status === 0) {
-            var firstTeam = JSON.parse(xhr.responseText);
+            var teamName = location.hash.substring(1);
+            var teams = JSON.parse(xhr.responseText);
+            var firstTeam = teams.find(x=>x.teamName==teamName)?teams.find(x=>x.teamName==teamName):teams[0];
+            
             var albumMenu = {el:'#menu',data:{teamName:firstTeam.teamName}};
             new Vue(albumMenu);
             var albumResource = {el:'#album',data:{firstTeam:firstTeam}};
