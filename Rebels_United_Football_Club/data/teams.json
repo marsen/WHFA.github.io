@@ -2,126 +2,113 @@
         {
             "teamName": "晨光銳布斯",
             "couch": {
-                "name": "楊中平"
+                "name": "洪佑宗"
             },
             "players": [
                 {
                     "no": "4",
                     "name": "Isamu Sumiyoshi",
-                    "avatar": ""
+                    "avatar": "avatars/4.jpg"
                 },
                 {
                     "no": "7",
                     "name": "戴瑋成",
-                    "avatar": "images/player.jpg"
+                    "avatar": "avatars/7.jpg"
+                },
+                {
+                    "no": "8",
+                    "name": "賴宗塏",
+                    "avatar": "avatars/8.jpg"
                 },
                 {
                     "no": "10",
                     "name": "陳家豪",
-                    "avatar": "images/player.jpg"
+                    "avatar": "avatars/10.jpg"
                 },
                 {
                     "no": "15",
                     "name": "李志勇",
-                    "avatar": ""
+                    "avatar": "avatars/15.jpg"
+                },
+                {
+                    "no": "16",
+                    "name": "徐先佑",
+                    "avatar": "avatars/16.jpg"
                 },
                 {
                     "no": "17",
                     "name": "謝金勇",
-                    "avatar": ""
+                    "avatar": "avatars/17.jpg"
                 },
                 {
                     "no": "21",
                     "name": "曾煒植",
-                    "avatar": ""
+                    "avatar": "avatars/21.jpg"
                 },
                 {
                     "no": "24",
                     "name": "林孟賢",
-                    "avatar": ""
+                    "avatar": "avatars/24.jpg"
                 },
                 {
                     "no": "25",
                     "name": "王紹維",
-                    "avatar": ""
+                    "avatar": "avatars/25.jpg"
                 },
                 {
                     "no": "26",
                     "name": "鄭凱耀",
-                    "avatar": ""
-                },
-                {
-                    "no": "33",
-                    "name": "先佑",
-                    "avatar": ""
+                    "avatar": "avatars/26.jpg"
                 },
                 {
                     "no": "34",
                     "name": "王群賀",
-                    "avatar": ""
-                },
-                {
-                    "no": "35",
-                    "name": "賴宗塏",
-                    "avatar": ""
+                    "avatar": "avatars/34.jpg"
                 },
                 {
                     "no": "39",
                     "name": "洪佑宗",
-                    "avatar": ""
+                    "avatar": "avatars/39.jpg"
                 },
                 {
                     "no": "47",
                     "name": "邵宜暄",
-                    "avatar": ""
+                    "avatar":  "avatars/47.jpg"
                 },
                 {
                     "no": "55",
                     "name": "邱子恩",
-                    "avatar": ""
+                    "avatar": "avatars/55.jpg"
                 },
                 {
                     "no": "60",
                     "name": "陳俊傑",
-                    "avatar": ""
+                    "avatar": "avatars/60.jpg"
+                },
+                {
+                    "no": "68",
+                    "name": "施伯霖",
+                    "avatar": "avatars/68.jpg"
                 },
                 {
                     "no": "74",
                     "name": "單彥鈞",
-                    "avatar": ""
+                    "avatar": "avatars/74.jpg"
                 },
                 {
                     "no": "87",
                     "name": "于雋",
-                    "avatar": ""
+                    "avatar": "avatars/87.jpg"
                 },
                 {
                     "no": "88",
                     "name": "林政緯",
-                    "avatar": ""
-                }
-            ]
-        },
-        {
-            "teamName": "BBBB",
-            "couch": {
-                "name": "AAA"
-            },
-            "players": [
-                {
-                    "no": "4",
-                    "name": "KKK",
-                    "avatar": ""
+                    "avatar": "avatars/4.jpg"
                 },
                 {
-                    "no": "7",
-                    "name": "JJJ",
-                    "avatar": "images/player.jpg"
-                },
-                {
-                    "no": "10",
-                    "name": "CCC",
-                    "avatar": "images/player.jpg"
+                    "no": "93",
+                    "name": "許筆超",
+                    "avatar": "avatars/93.jpg"
                 }
             ]
         }
