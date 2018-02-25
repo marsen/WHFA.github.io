@@ -1,0 +1,115 @@
+﻿[
+        {
+            "teamName": "樂活熊",
+            "couch": {
+                "name": ""
+            },
+            "players": [
+                {
+                    "no": "1",
+                    "name": "曾晨威",
+                    "avatar": "avatars/1.jpg"
+                },
+                {
+                    "no": "2",
+                    "name": "吳柏翰",
+                    "avatar": "avatars/2.jpg"
+                },
+                {
+                    "no": "4",
+                    "name": "李宗哲",
+                    "avatar": "avatars/4.jpg"
+                },
+                {
+                    "no": "6",
+                    "name": "陳建翔",
+                    "avatar": "avatars/6.jpg"
+                },
+                {
+                    "no": "7",
+                    "name": "王庸倫",
+                    "avatar": "avatars/7.jpg"
+                },
+                {
+                    "no": "8",
+                    "name": "林澤宇",
+                    "avatar": "avatars/8.jpg"
+                },
+                {
+                    "no": "10",
+                    "name": "黃竣盟",
+                    "avatar": "avatars/10.jpg"
+                },
+                {
+                    "no": "15",
+                    "name": "廖記賢",
+                    "avatar": "avatars/15.jpg"
+                },
+                {
+                    "no": "19",
+                    "name": "王志冉",
+                    "avatar": "avatars/19.jpg"
+                },
+                {
+                    "no": "21",
+                    "name": "姚舒瀚",
+                    "avatar": "avatars/21.jpg"
+                },
+                {
+                    "no": "22",
+                    "name": "許先麟",
+                    "avatar": "avatars/22.jpg"
+                },
+                {
+                    "no": "23",
+                    "name": "林政毅",
+                    "avatar": "avatars/23.jpg"
+                },
+                {
+                    "no": "26",
+                    "name": "卓渝峯",
+                    "avatar": "avatars/26.jpg"
+                },
+                {
+                    "no": "30",
+                    "name": "李政杰",
+                    "avatar": "avatars/30.jpg"
+                },
+                {
+                    "no": "31",
+                    "name": "馬先彬",
+                    "avatar": "avatars/31.jpg"
+                },
+                {
+                    "no": "51",
+                    "name": "董昆鑫",
+                    "avatar": "avatars/51.jpg"
+                },
+                {
+                    "no": "59",
+                    "name": "尹開元",
+                    "avatar": "avatars/59.jpg"
+                },
+                {
+                    "no": "60",
+                    "name": "周晃先",
+                    "avatar": "avatars/60.jpg"
+                },
+                {
+                    "no": "88",
+                    "name": "黃祐辰",
+                    "avatar": "avatars/88.jpg"
+                },
+                {
+                    "no": "89",
+                    "name": "馬緯中",
+                    "avatar": "avatars/89.jpg"
+                },
+                {
+                    "no": "99",
+                    "name": "洪楚航",
+                    "avatar": "avatars/99.jpg"
+                }                
+            ]
+        }
+]
