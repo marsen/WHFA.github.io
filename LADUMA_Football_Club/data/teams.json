@@ -1,0 +1,125 @@
+﻿[
+        {
+            "teamName": "LADUMA",
+            "couch": {
+                "name": ""
+            },
+            "players": [
+                {
+                    "no": "0",
+                    "name": "張又方",
+                    "avatar": "avatars/0.jpg"
+                },
+                {
+                    "no": "1",
+                    "name": "李建璋",
+                    "avatar": "avatars/1.jpg"
+                },
+                {
+                    "no": "2",
+                    "name": "樂忠明",
+                    "avatar": "avatars/2.jpg"
+                },
+                {
+                    "no": "3",
+                    "name": "葉其霏",
+                    "avatar": "avatars/3.jpg"
+                },
+                {
+                    "no": "5",
+                    "name": "蘇柏銘",
+                    "avatar": "avatars/5.jpg"
+                },
+                {
+                    "no": "6",
+                    "name": "簡宗緯",
+                    "avatar": "avatars/6.jpg"
+                },
+                {
+                    "no": "7",
+                    "name": "林哲毅",
+                    "avatar": "avatars/7.jpg"
+                },
+                {
+                    "no": "8",
+                    "name": "黃介璘",
+                    "avatar": "avatars/8.jpg"
+                },
+                {
+                    "no": "9",
+                    "name": "蔡承寰",
+                    "avatar": "avatars/9.jpg"
+                },
+                {
+                    "no": "10",
+                    "name": "廖家男",
+                    "avatar": "avatars/10.jpg"
+                },
+                {
+                    "no": "11",
+                    "name": "林仕文",
+                    "avatar": "avatars/11.jpg"
+                },
+                {
+                    "no": "12",
+                    "name": "孫譽瑋",
+                    "avatar": "avatars/12.jpg"
+                },
+                {
+                    "no": "13",
+                    "name": "辜培傑",
+                    "avatar": "avatars/13.jpg"
+                },
+                {
+                    "no": "14",
+                    "name": "黃介瑋",
+                    "avatar": "avatars/14.jpg"
+                },
+                {
+                    "no": "16",
+                    "name": "張維元",
+                    "avatar": "avatars/16.jpg"
+                },
+                {
+                    "no": "17",
+                    "name": "鄭軒",
+                    "avatar": "avatars/17.jpg"
+                },
+                {
+                    "no": "18",
+                    "name": "陳彥勛",
+                    "avatar": "avatars/18.jpg"
+                },
+                {
+                    "no": "20",
+                    "name": "游詔淵",
+                    "avatar": "avatars/20.jpg"
+                },
+                {
+                    "no": "23",
+                    "name": "劉清輝",
+                    "avatar": "avatars/23.jpg"
+                },
+                {
+                    "no": "29",
+                    "name": "曾偉嘉",
+                    "avatar": "avatars/29.jpg"
+                },
+                {
+                    "no": "36",
+                    "name": "古嚟文",
+                    "avatar": "avatars/36.jpg"
+                },
+                {
+                    "no": "65",
+                    "name": "何昌印",
+                    "avatar": "avatars/65.jpg"
+                },
+                {
+                    "no": "69",
+                    "name": "林仕軒",
+                    "avatar": "avatars/69.jpg"
+                }
+            ]
+        }
+]
