@@ -1,0 +1,115 @@
+[
+    {
+        "teamName": "FCBase巴瑟",
+        "couch": {
+            "name": "洪佑宗"
+        },
+        "players": [
+            {
+                "no": "2",
+                "name": "唐嘉威",
+                "avatar": "avatars/2.jpg"
+            },
+            {
+                "no": "4",
+                "name": "Daniel Cambo",
+                "avatar": "avatars/4.jpg"
+            },
+            {
+                "no": "6",
+                "name": "陳韋良",
+                "avatar": "avatars/6.jpg"
+            },
+            {
+                "no": "7",
+                "name": "黃俊評",
+                "avatar": "avatars/7.jpg"
+            },
+            {
+                "no": "8",
+                "name": "呂政杰",
+                "avatar": "avatars/8.jpg"
+            },
+            {
+                "no": "9",
+                "name": "池德基",
+                "avatar": "avatars/9.jpg"
+            },
+            {
+                "no": "10",
+                "name": "Ignacio Oltra",
+                "avatar": "avatars/10.jpg"
+            },
+            {
+                "no": "11",
+                "name": "吳育帆",
+                "avatar": "avatars/11.jpg"
+            },
+            {
+                "no": "12",
+                "name": "賴柏伸",
+                "avatar": "avatars/12.jpg"
+            },
+            {
+                "no": "14",
+                "name": "蔡孟孜",
+                "avatar": "avatars/14.jpg"
+            },
+            {
+                "no": "15",
+                "name": "Monika Kazlauskaite",
+                "avatar": "avatars/15.jpg"
+            },
+            {
+                "no": "16",
+                "name": "莊瑞龍",
+                "avatar": "avatars/16.jpg"
+            },
+            {
+                "no": "17",
+                "name": "林孟儀",
+                "avatar": "avatars/17.jpg"
+            },
+            {
+                "no": "18",
+                "name": "邱裕仁",
+                "avatar": "avatars/18.jpg"
+            },
+            {
+                "no": "19",
+                "name": "連家慶",
+                "avatar": "avatars/19.jpg"
+            },
+            {
+                "no": "20",
+                "name": "高志成",
+                "avatar": "avatars/20.jpg"
+            },
+            {
+                "no": "23",
+                "name": "饒哲瑋",
+                "avatar": "avatars/23.jpg"
+            },
+            {
+                "no": "25",
+                "name": "Luis Marquez",
+                "avatar": "avatars/25.jpg"
+            },
+            {
+                "no": "27",
+                "name": "徐瑋澤",
+                "avatar": "avatars/27.jpg"
+            },
+            {
+                "no": "28",
+                "name": "吳懿倫",
+                "avatar": "avatars/28.jpg"
+            },
+            {
+                "no": "29",
+                "name": "曾建燁",
+                "avatar": "avatars/29.jpg"
+            }
+        ]
+    }
+]
