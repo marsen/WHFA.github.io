@@ -1,0 +1,115 @@
+[
+    {
+        "teamName": "50UFC",
+        "couch": {
+            "name": "陳世明"
+        },
+        "players": [
+            {
+                "no": "1",
+                "name": "武青亮",
+                "avatar": "avatars/1.jpg"
+            },
+            {
+                "no": "2",
+                "name": "黃權才",
+                "avatar": "avatars/2.jpg"
+            },
+            {
+                "no": "5",
+                "name": "林意平",
+                "avatar": "avatars/5.jpg"
+            },
+            {
+                "no": "9",
+                "name": "陳世明",
+                "avatar": "avatars/9.jpg"
+            },
+            {
+                "no": "11",
+                "name": "黎文工",
+                "avatar": "avatars/11.jpg"
+            },
+            {
+                "no": "12",
+                "name": "喬文凱",
+                "avatar": "avatars/12.jpg"
+            },
+            {
+                "no": "15",
+                "name": "蘇潘",
+                "avatar": "avatars/15.jpg"
+            },
+            {
+                "no": "17",
+                "name": "陳信宏",
+                "avatar": "avatars/17.jpg"
+            },
+            {
+                "no": "18",
+                "name": "郭維君",
+                "avatar": "avatars/18.jpg"
+            },
+            {
+                "no": "19",
+                "name": "高卓欽",
+                "avatar": "avatars/19.jpg"
+            },
+            {
+                "no": "23",
+                "name": "陳尚謙",
+                "avatar": "avatars/23.jpg"
+            },
+            {
+                "no": "24",
+                "name": "吳俊霈",
+                "avatar": "avatars/24.jpg"
+            },
+            {
+                "no": "26",
+                "name": "廖樹威",
+                "avatar": "avatars/26.jpg"
+            },
+            {
+                "no": "27",
+                "name": "呂世民",
+                "avatar": "avatars/27.jpg"
+            },
+            {
+                "no": "30",
+                "name": "林志豪",
+                "avatar": "avatars/30.jpg"
+            },
+            {
+                "no": "34",
+                "name": "羅文儒",
+                "avatar": "avatars/34.jpg"
+            },
+            {
+                "no": "38",
+                "name": "莫任松",
+                "avatar": "avatars/38.jpg"
+            },
+            {
+                "no": "55",
+                "name": "李朝魁",
+                "avatar": "avatars/55.jpg"
+            },
+            {
+                "no": "77",
+                "name": "高民永",
+                "avatar": "avatars/77.jpg"
+            },
+            {
+                "no": "88",
+                "name": "金龍勳",
+                "avatar": "avatars/88.jpg"
+            },
+            {
+                "no": "99",
+                "name": "朱俊良",
+                "avatar": "avatars/99.jpg"
+            }
+        ]
+    }
+]
