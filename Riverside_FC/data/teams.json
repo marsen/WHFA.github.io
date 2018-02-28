@@ -1,0 +1,80 @@
+[
+    {
+        "teamName": "河濱FC",
+        "couch": {
+            "name": "游竣翔"
+        },
+        "players": [
+            {
+                "no": "3",
+                "name": "蔡宗哲",
+                "avatar": "avatars/3.jpg"
+            },
+            {
+                "no": "5",
+                "name": "黃國哲",
+                "avatar": "avatars/5.jpg"
+            },
+            {
+                "no": "6",
+                "name": "謝國松",
+                "avatar": "avatars/6.jpg"
+            },
+            {
+                "no": "7",
+                "name": "黃宏偉",
+                "avatar": "avatars/7.jpg"
+            },
+            {
+                "no": "8",
+                "name": "聶上棨",
+                "avatar": "avatars/8.jpg"
+            },
+            {
+                "no": "9",
+                "name": "黃子昂",
+                "avatar": "avatars/9.jpg"
+            },
+            {
+                "no": "10",
+                "name": "余白",
+                "avatar": "avatars/10.jpg"
+            },
+            {
+                "no": "11",
+                "name": "蔡亞東",
+                "avatar": "avatars/11.jpg"
+            },
+            {
+                "no": "18",
+                "name": "李佳叡",
+                "avatar": "avatars/18.jpg"
+            },
+            {
+                "no": "19",
+                "name": "陳家駿",
+                "avatar": "avatars/19.jpg"
+            },
+            {
+                "no": "21",
+                "name": "王乙翔",
+                "avatar": "avatars/21.jpg"
+            },
+            {
+                "no": "22",
+                "name": "江家宇",
+                "avatar": "avatars/22.jpg"
+            },
+            {
+                "no": "29",
+                "name": "游竣翔",
+                "avatar": "avatars/29.jpg"
+            },
+            {
+                "no": "47",
+                "name": "林德洪",
+                "avatar": "avatars/47.jpg"
+            }
+        ]
+    }
+]
