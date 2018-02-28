@@ -1,14 +1,89 @@
 [
     {
-        "teamName": "",
+        "teamName": "台北河床",
         "couch": {
-            "name": ""
+            "name": "陳錫暉"
         },
         "players": [
             {
-                "no": "",
-                "name": "",
-                "avatar": "avatars/.jpg"
+                "no": "2",
+                "name": "陳錫暉",
+                "avatar": "avatars/2.jpg"
+            },
+            {
+                "no": "3",
+                "name": "黃宇任",
+                "avatar": "avatars/3.jpg"
+            },
+            {
+                "no": "4",
+                "name": "黃  勉",
+                "avatar": "avatars/4.jpg"
+            },
+            {
+                "no": "5",
+                "name": "林子軒",
+                "avatar": "avatars/5.jpg"
+            },
+            {
+                "no": "7",
+                "name": "李政哲",
+                "avatar": "avatars/7.jpg"
+            },
+            {
+                "no": "8",
+                "name": "吳岳樺",
+                "avatar": "avatars/8.jpg"
+            },
+            {
+                "no": "9",
+                "name": "周士鈞",
+                "avatar": "avatars/9.jpg"
+            },
+            {
+                "no": "10",
+                "name": "陳文政",
+                "avatar": "avatars/10.jpg"
+            },
+            {
+                "no": "11",
+                "name": "張楊敏",
+                "avatar": "avatars/11.jpg"
+            },
+            {
+                "no": "13",
+                "name": "張俊平",
+                "avatar": "avatars/13.jpg"
+            },
+            {
+                "no": "14",
+                "name": "陳瑞祥",
+                "avatar": "avatars/14.jpg"
+            },
+            {
+                "no": "19",
+                "name": "李世佳",
+                "avatar": "avatars/19.jpg"
+            },
+            {
+                "no": "21",
+                "name": "高祥閔",
+                "avatar": "avatars/21.jpg"
+            },
+            {
+                "no": "23",
+                "name": "陳子豪",
+                "avatar": "avatars/23.jpg"
+            },
+            {
+                "no": "24",
+                "name": "楊欣璋",
+                "avatar": "avatars/24.jpg"
+            },
+            {
+                "no": "99",
+                "name": "丘紹斌",
+                "avatar": "avatars/99.jpg"
             }
         ]
     }
