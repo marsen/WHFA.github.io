@@ -1,14 +1,114 @@
 [
     {
-        "teamName": "",
+        "teamName": "U31+",
         "couch": {
-            "name": ""
+            "name": "曾惟靖"
         },
         "players": [
             {
-                "no": "",
+                "no": "0",
+                "name": "李宗諭",
+                "avatar": "avatars/0.jpg"
+            },
+            {
+                "no": "3",
+                "name": "黃俊彥",
+                "avatar": "avatars/3.jpg"
+            },
+            {
+                "no": "5",
                 "name": "",
-                "avatar": "avatars/.jpg"
+                "avatar": "avatars/5.jpg"
+            },
+            {
+                "no": "6",
+                "name": "徐有辰",
+                "avatar": "avatars/6.jpg"
+            },
+            {
+                "no": "7",
+                "name": "阮大維",
+                "avatar": "avatars/7.jpg"
+            },
+            {
+                "no": "8",
+                "name": "王佳偉",
+                "avatar": "avatars/8.jpg"
+            },
+            {
+                "no": "12",
+                "name": "洪秉顥",
+                "avatar": "avatars/12.jpg"
+            },
+            {
+                "no": "14",
+                "name": "蔡明璋",
+                "avatar": "avatars/14.jpg"
+            },
+            {
+                "no": "19",
+                "name": "王德華",
+                "avatar": "avatars/19.jpg"
+            },
+            {
+                "no": "21",
+                "name": "曾惟靖",
+                "avatar": "avatars/21.jpg"
+            },
+            {
+                "no": "24",
+                "name": "謝昕穎",
+                "avatar": "avatars/24.jpg"
+            },
+            {
+                "no": "30",
+                "name": "廖家緯",
+                "avatar": "avatars/30.jpg"
+            },
+            {
+                "no": "32",
+                "name": "高偉杰",
+                "avatar": "avatars/32.jpg"
+            },
+            {
+                "no": "33",
+                "name": "劉思宇",
+                "avatar": "avatars/33.jpg"
+            },
+            {
+                "no": "41",
+                "name": "盧永峻",
+                "avatar": "avatars/41.jpg"
+            },
+            {
+                "no": "44",
+                "name": "Chia Chon Rei",
+                "avatar": "avatars/44.jpg"
+            },
+            {
+                "no": "50",
+                "name": "曾子豪",
+                "avatar": "avatars/50.jpg"
+            },
+            {
+                "no": "61",
+                "name": "李後宏",
+                "avatar": "avatars/61.jpg"
+            },
+            {
+                "no": "77",
+                "name": "潘國倫",
+                "avatar": "avatars/77.jpg"
+            },
+            {
+                "no": "95",
+                "name": "謝朗彥",
+                "avatar": "avatars/95.jpg"
+            },
+            {
+                "no": "97",
+                "name": "黃尚毅",
+                "avatar": "avatars/97.jpg"
             }
         ]
     }
