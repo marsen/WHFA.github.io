@@ -1,14 +1,94 @@
 [
     {
-        "teamName": "",
+        "teamName": "碧青戴拿模",
         "couch": {
             "name": ""
         },
         "players": [
             {
-                "no": "",
-                "name": "",
-                "avatar": "avatars/.jpg"
+                "no": "2",
+                "name": "陳正穎",
+                "avatar": "avatars/2.jpg"
+            },            
+            {
+                "no": "6",
+                "name": "楊植勳",
+                "avatar": "avatars/6.jpg"
+            },            
+            {
+                "no": "7",
+                "name": "許智睿",
+                "avatar": "avatars/7.jpg"
+            },
+            {
+                "no": "13",
+                "name": "王桂辰",
+                "avatar": "avatars/13.jpg"
+            },            
+            {
+                "no": "14",
+                "name": "飯塚章悟",
+                "avatar": "avatars/14.jpg"
+            },            
+            {
+                "no": "16",
+                "name": "李略群",
+                "avatar": "avatars/16.jpg"
+            },            
+            {
+                "no": "17",
+                "name": "李偉明",
+                "avatar": "avatars/17.jpg"
+            },            
+            {
+                "no": "19",
+                "name": "謝冠德",
+                "avatar": "avatars/19.jpg"
+            },            
+            {
+                "no": "21",
+                "name": "詹勳智",
+                "avatar": "avatars/21.jpg"
+            },            
+            {
+                "no": "22",
+                "name": "陳承恩",
+                "avatar": "avatars/22.jpg"
+            },            
+            {
+                "no": "23",
+                "name": "李俊文",
+                "avatar": "avatars/23.jpg"
+            },            
+            {
+                "no": "25",
+                "name": "張東全",
+                "avatar": "avatars/25.jpg"
+            },            
+            {
+                "no": "26",
+                "name": "程章齊",
+                "avatar": "avatars/26.jpg"
+            },            
+            {
+                "no": "28",
+                "name": "陳宇燊",
+                "avatar": "avatars/28.jpg"
+            },            
+            {
+                "no": "31",
+                "name": "曹祐嘉",
+                "avatar": "avatars/31.jpg"
+            },            
+            {
+                "no": "33",
+                "name": "曾裕暉",
+                "avatar": "avatars/33.jpg"
+            },            
+            {
+                "no": "42",
+                "name": "陳逸嘉",
+                "avatar": "avatars/42.jpg"
             }
         ]
     }
