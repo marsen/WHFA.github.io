@@ -1,14 +1,149 @@
 [
     {
-        "teamName": "",
+        "teamName": "打馬悍將",
         "couch": {
-            "name": ""
+            "name": "蔡維晉"
         },
         "players": [
             {
-                "no": "",
-                "name": "",
-                "avatar": "avatars/.jpg"
+                "no": "2",
+                "name": "王俊超",
+                "avatar": "avatars/2.jpg"
+            },
+            {
+                "no": "3",
+                "name": "李宗穎",
+                "avatar": "avatars/3.jpg"
+            },
+            {
+                "no": "6",
+                "name": "陳亞生",
+                "avatar": "avatars/6.jpg"
+            },
+            {
+                "no": "7",
+                "name": "陳亮辰",
+                "avatar": "avatars/7.jpg"
+            },
+            {
+                "no": "8",
+                "name": "李柏辰",
+                "avatar": "avatars/8.jpg"
+            },
+            {
+                "no": "9",
+                "name": "郭聖彥",
+                "avatar": "avatars/9.jpg"
+            },
+            {
+                "no": "10",
+                "name": "曹育霖",
+                "avatar": "avatars/10.jpg"
+            },
+            {
+                "no": "11",
+                "name": "吳宗光",
+                "avatar": "avatars/11.jpg"
+            },
+            {
+                "no": "14",
+                "name": "翁鼎鈞",
+                "avatar": "avatars/14.jpg"
+            },
+            {
+                "no": "15",
+                "name": "楊峻棠",
+                "avatar": "avatars/15.jpg"
+            },
+            {
+                "no": "17",
+                "name": "簡茂根",
+                "avatar": "avatars/17.jpg"
+            },
+            {
+                "no": "19",
+                "name": "郭威廷",
+                "avatar": "avatars/19.jpg"
+            },
+            {
+                "no": "20",
+                "name": "劉俊男",
+                "avatar": "avatars/20.jpg"
+            },
+            {
+                "no": "21",
+                "name": "張博智",
+                "avatar": "avatars/21.jpg"
+            },
+            {
+                "no": "22",
+                "name": "蔡維晉",
+                "avatar": "avatars/22.jpg"
+            },
+            {
+                "no": "23",
+                "name": "詹皓然",
+                "avatar": "avatars/23.jpg"
+            },
+            {
+                "no": "25",
+                "name": "張士勇",
+                "avatar": "avatars/25.jpg"
+            },
+            {
+                "no": "26",
+                "name": "藤本鴻松",
+                "avatar": "avatars/26.jpg"
+            },
+            {
+                "no": "28",
+                "name": "余杰霖",
+                "avatar": "avatars/28.jpg"
+            },
+            {
+                "no": "30",
+                "name": "王士豪",
+                "avatar": "avatars/30.jpg"
+            },
+            {
+                "no": "36",
+                "name": "Frank",
+                "avatar": "avatars/36.jpg"
+            },
+            {
+                "no": "38",
+                "name": "盧昱昕",
+                "avatar": "avatars/38.jpg"
+            },
+            {
+                "no": "52",
+                "name": "李育緯",
+                "avatar": "avatars/52.jpg"
+            },
+            {
+                "no": "53",
+                "name": "鄭惠云",
+                "avatar": "avatars/53.jpg"
+            },
+            {
+                "no": "62",
+                "name": "黃楷堯",
+                "avatar": "avatars/62.jpg"
+            },
+            {
+                "no": "76",
+                "name": "郭博弘",
+                "avatar": "avatars/76.jpg"
+            },
+            {
+                "no": "82",
+                "name": "郭文旺",
+                "avatar": "avatars/82.jpg"
+            },
+            {
+                "no": "91",
+                "name": "末永英佑",
+                "avatar": "avatars/91.jpg"
             }
         ]
     }
