@@ -1,0 +1,15 @@
+[
+    {
+        "teamName": "",
+        "couch": {
+            "name": ""
+        },
+        "players": [
+            {
+                "no": "",
+                "name": "",
+                "avatar": "avatars/.jpg"
+            }
+        ]
+    }
+]

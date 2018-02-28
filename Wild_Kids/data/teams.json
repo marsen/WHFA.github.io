@@ -1,0 +1,120 @@
+[
+    {
+        "teamName": "",
+        "couch": {
+            "name": ""
+        },
+        "players": [
+            {
+                "no": "1",
+                "name": "黃鴻棋",
+                "avatar": "avatars/1.jpg"
+            },
+            {
+                "no": "2",
+                "name": "王璽凱",
+                "avatar": "avatars/2.jpg"
+            },
+            {
+                "no": "5",
+                "name": "許宜婷",
+                "avatar": "avatars/5.jpg"
+            },
+            {
+                "no": "6",
+                "name": "林揚智",
+                "avatar": "avatars/6.jpg"
+            },
+            {
+                "no": "7",
+                "name": "王瑋鈞",
+                "avatar": "avatars/7.jpg"
+            },
+            {
+                "no": "8",
+                "name": "蔡峻瑋",
+                "avatar": "avatars/8.jpg"
+            },
+            {
+                "no": "9",
+                "name": "王慶鴻",
+                "avatar": "avatars/9.jpg"
+            },
+            {
+                "no": "10",
+                "name": "前川敬德",
+                "avatar": "avatars/10.jpg"
+            },
+            {
+                "no": "11",
+                "name": "莊燿鴻",
+                "avatar": "avatars/11.jpg"
+            },
+            {
+                "no": "12",
+                "name": "廖坤彬",
+                "avatar": "avatars/12.jpg"
+            },
+            {
+                "no": "13",
+                "name": "陳宗仁",
+                "avatar": "avatars/13.jpg"
+            },
+            {
+                "no": "14",
+                "name": "Ghio Eric Anton",
+                "avatar": "avatars/14.jpg"
+            },
+            {
+                "no": "17",
+                "name": "楊佳曄",
+                "avatar": "avatars/17.jpg"
+            },
+            {
+                "no": "19",
+                "name": "黃俊欽",
+                "avatar": "avatars/19.jpg"
+            },
+            {
+                "no": "22",
+                "name": "廖哲逸",
+                "avatar": "avatars/22.jpg"
+            },
+            {
+                "no": "23",
+                "name": "葉鈺敏",
+                "avatar": "avatars/23.jpg"
+            },
+            {
+                "no": "24",
+                "name": "王仕宏",
+                "avatar": "avatars/24.jpg"
+            },
+            {
+                "no": "27",
+                "name": "方崇任",
+                "avatar": "avatars/27.jpg"
+            },
+            {
+                "no": "34",
+                "name": "洪瑞鴻",
+                "avatar": "avatars/34.jpg"
+            },
+            {
+                "no": "55",
+                "name": "郭建陞",
+                "avatar": "avatars/55.jpg"
+            },
+            {
+                "no": "77",
+                "name": "吳雯鈺",
+                "avatar": "avatars/77.jpg"
+            },
+            {
+                "no": "88",
+                "name": "戴  燊",
+                "avatar": "avatars/88.jpg"
+            }
+        ]
+    }
+]

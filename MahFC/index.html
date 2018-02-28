@@ -1,0 +1,68 @@
+<html lang="zh-Hant-TW">
+	<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+    <title>球員名單 - </title>
+    <!-- Bootstrap core CSS -->
+    <link href="/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="/dist/css/album.css" rel="stylesheet">
+    <script src="https://unpkg.com/vue"></script>
+	</head>
+	<body>
+    <div class="navbar navbar-inverse bg-inverse" id="menu">
+      <div class="container d-flex justify-content-between">
+        <a href="#" class="navbar-brand">{{teamName}}</a>
+      </div>
+    </div>
+    <div class="album text-muted" id='album'>
+        <div class="container">
+          <div class="row">
+            <div class="card">
+              <img src="images/couch.jpg" >
+              <p class="card-text">教練 {{firstTeam.couch.name}}</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="card" v-for="(player,index) in firstTeam.players">
+              <img :src="getPic(player.no)" >
+              <p class="card-text">{{player.no}} {{player.name}}</p>
+            </div>
+          </div>
+        </div>
+    </div>
+  </body>	
+  <script>
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', 'data/teams.json');
+      xhr.onload = function() {
+          if (xhr.status === 200 || xhr.status === 0) {
+            var teamName = location.hash.substring(1);
+            var teams = JSON.parse(xhr.responseText);
+            var firstTeam = teams.find(x=>x.teamName==teamName)?teams.find(x=>x.teamName==teamName):teams[0];
+            
+            var albumMenu = {el:'#menu',data:{teamName:firstTeam.teamName}};
+            new Vue(albumMenu);
+            var albumResource = {
+              el:'#album',
+              data:{
+                firstTeam:firstTeam
+                },
+                methods: {
+                  getPic(player_images) {
+                    return 'images/avatars/' + player_images + '.jpg';
+                  }
+                }
+              };
+            new Vue(albumResource);
+          }
+          else {
+              console.error('ERROR ' + xhr.status);
+          }
+      };
+      xhr.send();
+    </script>
+</html>
